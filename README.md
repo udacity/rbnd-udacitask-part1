@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-For this project, we're going to create a command line to-do list using object oriented principles. The to-do list will be able to perform basic tasks such as adding to and deleting from the list, and marking items as complete. It will also have three new features (that you will get to choose) that improve its functionality.
+For this project, you're going to create a command line to-do list using object oriented principles. The to-do list will be able to perform basic tasks such as adding to and deleting from the list, and marking items as complete. It will also have three new features (that you will get to choose) that improve its functionality.
 
 ## Completing this Project
 
@@ -11,10 +11,10 @@ Before submitting, ensure your program has the following:
 * Methods for creating a list, naming a list, and renaming a list.
 * Methods for adding items to and deleting items from a list.
 * Methods for updating the completion status of an item. (If it’s not done, mark it as done, and vice versa.)
-* At least one method that returns a boolean (ex. def completed?).
-* Print methods for each of the classes that create a nicely formatted to-do list format.
+* At least one method that returns a boolean (ex. `def completed?`).
+* Print methods for each of the classes that output a nicely formatted to-do list to the command line.
 
-You should also make sure that your program outputs the steps listed in udacitask_starter.rb.
+You should also make sure that your program outputs the steps listed in `udacitask_starter.rb`.
 
 Remember, you should **not** modify any of the existing code we have provided for you.
 
